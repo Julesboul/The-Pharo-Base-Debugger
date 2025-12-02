@@ -1,1 +1,1 @@
-# The-Pharo-Base-Debugger
+# The Pharo Debugger
