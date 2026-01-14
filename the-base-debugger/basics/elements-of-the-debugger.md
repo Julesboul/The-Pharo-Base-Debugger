@@ -124,4 +124,3 @@ Ticking or unticking a breakpoint in that list will activate or deactivate that 
 
 The meta inspection shows methods of the receiver's class hierarchy.
 Methods can be modified and saved in directly in that pane.
-
