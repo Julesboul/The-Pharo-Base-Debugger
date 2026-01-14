@@ -2,6 +2,8 @@
 
 The debug point system is a model destined to replace the former breakpoint and watchpoint model.
 
+Test text to see if building is good.
+
 #### Types of debug points
 
 **Debug points** are different types of **instrumentation that are used to debug**. 
